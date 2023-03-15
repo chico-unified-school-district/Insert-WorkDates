@@ -1,0 +1,114 @@
+{
+  "holidays": [
+    {
+      "name": "New Years Day",
+      "month": "January",
+      "dayOfWeek": "",
+      "range": {
+        "min": 1,
+        "max": 2
+      },
+      "note": ""
+    },
+    {
+      "name": "New Years Eve",
+      "month": "December",
+      "dayOfWeek": "",
+      "range": {
+        "min": 30,
+        "max": 31
+      },
+      "note": ""
+    },
+    {
+      "name": "Birthday of Martin Luther King, Jr.",
+      "month": "January",
+      "dayOfWeek": "Monday",
+      "range": {
+        "min": 15,
+        "max": 21
+      },
+      "note": "Floating Monday"
+    },
+    {
+      "name": "Washington's Birthday",
+      "month": "February",
+      "dayOfWeek": "Monday",
+      "range": {
+        "min": 15,
+        "max": 21
+      },
+      "note": "Floating Monday"
+    },
+    {
+      "name": "Memorial Day",
+      "month": "May",
+      "dayOfWeek": "Monday",
+      "range": {
+        "min": 25,
+        "max": 31
+      },
+      "note": "Floating Monday"
+    },
+    {
+      "name": "Independence Day",
+      "month": "May",
+      "dayOfWeek": "",
+      "range": {
+        "min": 4,
+        "max": 4
+      },
+      "note": "Fixed"
+    },
+    {
+      "name": "Labor Day",
+      "month": "September",
+      "dayOfWeek": "Monday",
+      "range": {
+        "min": 1,
+        "max": 7
+      },
+      "note": "Floating Monday"
+    },
+    {
+      "name": "Columbus Day",
+      "month": "October",
+      "dayOfWeek": "Monday",
+      "range": {
+        "min": 8,
+        "max": 14
+      },
+      "note": "Floating Monday"
+    },
+    {
+      "name": "Veterans Day",
+      "month": "November",
+      "dayOfWeek": "",
+      "range": {
+        "min": 11,
+        "max": 11
+      },
+      "note": "Fixed"
+    },
+    {
+      "name": "Thanksgiving Day",
+      "month": "November",
+      "dayOfWeek": "",
+      "range": {
+        "min": 22,
+        "max": 28
+      },
+      "note": "Floating Thursday"
+    },
+    {
+      "name": "Christmas Day",
+      "month": "December",
+      "dayOfWeek": "",
+      "range": {
+        "min": 23,
+        "max": 26
+      },
+      "note": "Fixed"
+    }
+  ]
+}
